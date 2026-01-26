@@ -10,5 +10,3 @@ An AOSP-like system based on Pixel phones
 This version is extremely unstable and contains many bugs. ⚠️⚠️
 
 Most of the README is translated using GPT, so there may be many errors.
-
-(alssssssssooo I’m from Taiwan! 🇹🇼)
