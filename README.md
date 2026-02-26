@@ -1,6 +1,8 @@
 # AetherOS-0.1alpha-Android13-Under-development-
 An AOSP-like system based on Pixel phones
-✍️ Development progress: 60%
+✍️ Development progress: NaN%
+
+⚠️🥲Due to personal reasons and other unexpected circumstances, the development of this system has been suspended indefinitely.
 
 😀 About this system:
 • Built on Android 13 for Google Pixel 6
